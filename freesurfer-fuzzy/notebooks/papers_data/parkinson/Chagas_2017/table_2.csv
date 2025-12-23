@@ -1,0 +1,14 @@
+metric,region,Control_M,Control_SD,CurrentMDD_M,CurrentMDD_SD,LifetimeMDD_M,LifetimeMDD_SD,F,p,significant
+volume,rh-caudalmiddlefrontal,6404.94,1252.00,6072.20,779.55,5173.40,1070.20,4.339,0.020,1
+volume,rh-parstriangularis,4043.67,840.88,3847.53,535.85,3223.60,588.91,4.608,0.016,1
+volume,rh-superiortemporal,10799.22,1409.59,10338.93,1020.89,9629.40,637.50,3.389,0.044,1
+subcortical-volume,Left-Cerebellum-White-Matter,17262.50,2825.45,14748.33,2816.28,14553.30,2164.31,4.884,0.013,1
+subcortical-volume,Left-Amygdala,1497.83,194.25,1363.80,172.37,1298.90,201.57,4.120,0.024,1
+subcortical-volume,Right-Amygdala,1616.06,193.56,1474.33,142.50,1408.30,129.25,6.010,0.005,1
+volume,caudalanteriorcingulate,888.22,130.15,759.27,103.03,867.90,209.01,3.551,0.038,1
+volume,lh-postcentral,9715.72,1332.94,9553.53,1413.00,8462.70,894.67,3.332,0.046,1
+volume,lh-superiorfrontal,21733.50,3231.10,21041.87,2188.29,18989.10,1643.75,3.663,0.035,1
+thickness,lh-rostralanteriorcingulate,2.91,0.19,2.97,0.17,2.76,0.15,4.162,0.023,1
+thickness,rh-caudalmiddlefrontal,2.51,0.14,2.60,0.13,2.45,0.12,3.900,0.029,0
+subcortical-volume,BrainSegVol,1182460.33,132137.01,1147751.40,116127.38,1112730.50,99791.19,1.119,0.336,0
+subcortical-volume,EstimatedTotalIntraCranialVol,1599064.23,182155.06,1593949.03,160113.46,1560555.83,85395.17,0.208,0.813,

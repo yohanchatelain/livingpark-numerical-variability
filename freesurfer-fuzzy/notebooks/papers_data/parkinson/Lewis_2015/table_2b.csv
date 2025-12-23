@@ -1,0 +1,8 @@
+Comparison,Total GM P-value,Cortical GM P-value,Putamen P-value,Caudate P-value,GP P-value
+Control vs. PD,0.001,0.001,0.001,0.001,0.450
+Control vs. PDE,0.004,0.001,0.001,0.058,0.245
+Control vs. PDM,0.032,0.018,0.014,0.024,0.781
+Control vs. PDL,0.002,0.001,0.004,0.003,0.809
+PDE vs. PDM,0.409,0.349,0.340,0.868,0.443
+PDE vs. PDL,0.959,0.999,0.656,0.394,0.433
+PDM vs. PDL,0.364,0.332,0.596,0.477,0.986

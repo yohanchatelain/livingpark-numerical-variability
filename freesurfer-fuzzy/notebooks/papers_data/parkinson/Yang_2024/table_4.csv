@@ -1,0 +1,9 @@
+region,Mild_mean,Mild_sd,ModerateSevere_mean,ModerateSevere_sd,p
+Left-Caudate,3529.94,435.57,3364.37,491.75,0.937
+Right-Caudate,3580.18,447.80,3450.21,511.28,0.937
+Left-Pallidum,1921.40,201.82,1921.32,293.51,0.937
+Right-Pallidum,1874.87,211.36,1876.55,209.11,0.937
+Left-Putamen,5054.12,654.77,4700.83,524.27,0.937
+Right-Putamen,4855.77,646.74,4699.52,519.30,0.937
+Left-Thalamus,8192.55,692.73,7814.38,672.02,0.937
+Right-Thalamus,7971.29,711.85,7683.55,620.45,0.937

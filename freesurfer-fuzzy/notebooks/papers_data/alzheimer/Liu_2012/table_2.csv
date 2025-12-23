@@ -1,0 +1,49 @@
+region,region_name,Control_r,Control_p,Control_q,Control_significant,MCI_r,MCI_p,MCI_q,MCI_significant,AD_r,AD_p,AD_q,AD_significant
+entorhinal,Entorhinal cortex,0.108,0.266,0.488,No,0.085,0.367,0.732,No,-0.179,0.054,0.089,No
+parahippocampal,Parahippocampal gyrus,0.067,0.489,0.600,No,-0.033,0.723,0.821,No,-0.096,0.307,0.327,No
+middletemporal, Middle temporal gyrus,0.165,0.088,0.348,No,0.161,0.084,0.682,No,-0.283,0.002,0.022,Yes
+superiortemporal,Superior temporal gyrus,0.108,0.266,0.488,No,0.124,0.184,0.682,No,-0.262,0.005,0.041,Yes
+inferiortemporal,Inferior temporal gyrus,0.067,0.489,0.600,No,0.078,0.402,0.732,No,-0.237,0.010,0.046,Yes
+temporalpole,Temporal pole,0.165,0.088,0.348,No,-0.046,0.625,0.793,No,-0.190,0.041,0.087,No
+transversetemporal,Transverse temporal cortex,0.020,0.839,0.906,No,0.169,0.070,0.682,No,-0.156,0.094,0.124,No
+insula,Insula,0.067,0.491,0.600,No,0.061,0.517,0.732,No,-0.149,0.110,0.140,No
+fusiform,Fusiform gyrus,0.145,0.133,0.366,No,0.000,1.000,1.000,No,-0.227,0.014,0.046,Yes
+medialorbitofrontal,Medial orbitofrontal cortex,0.221,0.021,0.206,No,0.055,0.561,0.741,No,-0.165,0.077,0.110,No
+lateralorbitofrontal,Lateral orbitofrontal cortex,0.269,0.005,0.165,No,0.027,0.771,0.821,No,-0.144,0.122,0.146,No
+parsorbitalis,Orbital operculum,0.215,0.025,0.206,No,0.124,0.184,0.682,No,-0.166,0.076,0.110,No
+parsopercularis,Frontal operculum,0.133,0.170,0.383,No,0.115,0.220,0.726,No,-0.183,0.050,0.087,No
+superiorfrontal,Superior frontal gyrus,0.050,0.611,0.720,No,0.071,0.450,0.732,No,-0.208,0.025,0.069,No
+parstriangularis,Pars triangularis,0.151,0.119,0.357,No,0.070,0.453,0.732,No,-0.109,0.243,0.267,No
+frontalpole,Frontal pole,0.162,0.095,0.348,No,0.029,0.753,0.821,No,-0.043,0.644,0.664,No
+rostralmiddlefrontal,Rostral middle frontal gyrus,-0.007,0.939,0.952,No,0.146,0.117,0.682,No,-0.197,0.034,0.080,No
+caudalmiddlefrontal,Caudal middle frontal gyrus,0.231,0.016,0.206,No,0.100,0.286,0.726,No,-0.234,0.012,0.046,Yes
+precentral,Precentral gyrus,0.075,0.443,0.600,No,0.124,0.186,0.682,No,-0.182,0.050,0.087,No
+superiorparietal,Superior parietal gyrus,0.162,0.093,0.348,No,0.036,0.704,0.821,No,-0.229,0.013,0.046,Yes
+postcentral,Post central gyrus,0.154,0.111,0.357,No,0.190,0.041,0.682,No,-0.144,0.124,0.146,No
+paracentral,Paracentral gyrus,0.041,0.671,0.764,No,0.030,0.750,0.600,No,-0.188,0.044,0.087,No
+inferiorparietal,Inferior parietal gyrus,-0.074,0.444,0.600,No,0.075,0.423,0.732,No,-0.294,0.001,0.017,Yes
+supramarginal,Supramarginal gyrus,0.075,0.438,0.600,No,0.101,0.280,0.726,No,-0.185,0.047,0.087,No
+pericalcarine,Pericalcarine cortex,0.006,0.952,0.952,No,-0.178,0.056,0.682,No,-0.231,0.013,0.046,Yes
+precuneus,Precuneus cortex,0.132,0.174,0.383,No,0.079,0.399,0.732,No,-0.230,0.013,0.046,Yes
+lingual,Lingual gyrus,0.104,0.286,0.496,No,0.012,0.896,0.924,No,-0.159,0.087,0.120,No
+cuneus,Cuneus cortex,0.018,0.851,0.906,No,0.081,0.386,0.732,No,-0.214,0.021,0.063,No
+lateraloccipital,Lateral occipital cortex,0.098,0.313,0.516,No,0.063,0.501,0.732,No,-0.297,0.001,0.017,Yes
+isthmuscingulate,Isthmus of cingulate cortex,0.137,0.157,0.383,No,0.106,0.258,0.726,No,-0.173,0.064,0.101,No
+caudalanteriorcingulate,Caudal anterior cingulate cortex,0.108,0.266,0.488,No,0.067,0.477,0.732,No,-0.021,0.820,0.820,No
+rostralanteriorcingulate,Rostral anterior cingulate,0.067,0.489,0.600,No,0.059,0.532,0.732,No,-0.112,0.230,0.262,No
+posteriorcingulate,Posterior cingulate cortex,0.165,0.088,0.348,No,0.141,0.130,0.682,No,-0.203,0.029,0.074,No
+Hippocampus,Hippocampus,0.082,0.400,0.750,No,0.034,0.727,0.839,No,-0.095,0.312,0.736,No
+Amygdala,Amygdala,0.034,0.727,0.839,No,-0.115,0.355,0.750,No,-0.095,0.312,0.736,No
+Caudate,Caudate,-0.115,0.355,0.750,No,0.090,0.685,0.839,No,-0.080,0.396,0.736,No
+Accumbens-area,Accumbens,0.090,0.685,0.839,No,-0.039,0.705,0.839,No,-0.038,0.686,0.736,No
+Putamen,Putamen,-0.039,0.705,0.839,No,0.037,0.310,0.750,No,-0.065,0.486,0.736,No
+Pallidum,Pallidum,0.037,0.310,0.750,No,0.099,0.601,0.839,No,-0.032,0.733,0.736,No
+Brain-Stem,Brain stem,0.099,0.601,0.839,No,0.051,0.568,0.839,No,-0.088,0.350,0.736,No
+CortexVol,Cerebral cortex,0.051,0.568,0.839,No,0.056,0.066,0.518,No,0.032,0.736,0.736,No
+Cerebellum-Cortex,Cerebellum cortex,0.056,0.066,0.518,No,0.177,0.235,0.750,No,-0.081,0.387,0.736,No
+Thalumus,Thalamus,0.177,0.235,0.750,No,-0.115,0.066,0.518,No,0.147,0.116,0.736,No
+CC_Anterior,Corpus callosum anterior,-0.115,0.066,0.518,No,0.090,0.235,0.750,No,-0.034,0.721,0.736,No
+CC_Central,Corpus callosum central,-0.016,0.866,0.908,No,0.032,0.733,0.893,No,-0.041,0.665,0.736,No
+CC_Mid_Anterior,Corpus callosum mid-anterior,0.176,0.069,0.518,No,0.138,0.140,0.893,No,-0.047,0.618,0.736,No
+CC_Mid_Posterior,Corpus callosum mid-posterior,0.101,0.298,0.750,No,0.016,0.866,0.893,No,-0.052,0.581,0.736,No
+CC_Posterior,Corpus callosum posterior,-0.011,0.908,0.908,No,-0.043,0.643,0.893,No,-0.062,0.506,0.736,No

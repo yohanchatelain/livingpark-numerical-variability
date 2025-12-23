@@ -1,0 +1,15 @@
+region,AR_mean,AR_sd,TD_mean,TD_sd,HCs_mean,HCs_sd,p_value,significant
+Left-Hippocampus,3781,392,3651,454,4017,391,0.0005,True
+Right-Hippocampus,3994,407,3890,408,4198,411,0.006,True
+Left-Amygdala,1503,205,1443,253,1571,195,0.085,False
+Right-Amygdala,1718,201,1654,193,1742,215,0.428,False
+Left-Thalamus,6994,649,6887,805,7275,932,0.154,False
+Right-Thalamus,6767,643,6738,820,6946,826,0.342,False
+Left-Caudate,3225,448,3109,440,3286,418,0.342,False
+Right-Caudate,3305,495,3236,444,3295,415,0.926,False
+Left-Putamen,4556,600,4590,546,4657,572,0.471,False
+Right-Putamen,4555,655,4653,530,4716,573,0.213,False
+Left-Pallidum,2107,232,2102,234,1988,226,0.013,False
+Right-Pallidum,2103,224,2079,209,2004,244,0.072,False
+Left-Accumbens-area,347,72,337,85,362,82,0.715,False
+Right-Accumbens-area,430,65,429,78,454,69,0.244,False

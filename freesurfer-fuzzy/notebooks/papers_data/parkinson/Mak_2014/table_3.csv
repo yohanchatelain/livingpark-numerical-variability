@@ -1,0 +1,10 @@
+region,pd_nci_mean,pd_nci_sd,pd_mci_mean,pd_mci_sd,adjusted_p_value
+Amygdala,2.13,0.51,2.23,0.36,.220
+Hippocampus,7.65,0.97,7.18,0.79,.198
+Accumbens-area,0.83,0.22,0.64,0.19,.044
+Caudate,6.37,0.76,5.96,0.76,.327
+Putamen,9.51,1.41,8.62,1.17,.058
+Pallidum,3.72,0.66,3.60,0.84,.876
+Thalamus,13.94,1.65,12.71,1.09,.025
+TotalGrayVol,688.76,34.86,661.92,28.24,.035
+CerebralWhiteMatterVol,654.43,41.49,633.10,46.04,.618

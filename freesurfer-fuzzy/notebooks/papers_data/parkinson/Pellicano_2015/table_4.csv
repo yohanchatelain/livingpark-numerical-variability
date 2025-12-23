@@ -1,0 +1,17 @@
+region,PD_without_ICD_mean,PD_without_ICD_sd,PD_with_ICD_mean,PD_with_ICD_sd,p_value,Percent_change,significant
+medialorbitofrontal,2.17,0.04,2.24,0.04,0.10,+3.2,False
+lateralorbitofrontal,2.43,0.05,2.52,0.05,0.10,+3.7,False
+frontalpole,2.53,0.06,2.70,0.06,0.001,+6.7,True
+superiorfrontal,2.51,0.05,2.54,0.05,0.10,+1.2,False
+rostralmiddlefrontal,2.22,0.04,2.29,0.04,0.10,+3.0,False
+parahippocampal,2.53,0.07,2.70,0.07,0.10,+6.7,False
+entorhinal,2.69,0.09,2.62,0.13,0.10,-3.1,False
+fusiform,2.55,0.04,2.43,0.05,0.10,-4.7,False
+caudalanteriorcingulate,2.44,0.05,2.60,0.05,0.10,+6.6,False
+rostralanteriorcingulate,2.64,0.04,2.82,0.05,0.002,+6.7,True
+caudate,2.10,0.06,2.05,0.06,0.10,-2.4,False
+Putamen,3.11,0.08,2.98,0.09,0.10,-4.2,False
+Pallidum,0.93,0.02,0.95,0.02,0.10,+2.2,False
+Hippocampus,2.59,0.07,2.55,0.07,0.10,-1.5,False
+Accumbens-area,0.32,0.03,0.28,0.03,0.10,-12.5,False
+Amygdala,0.99,0.03,0.90,0.03,0.10,-9.1,False
