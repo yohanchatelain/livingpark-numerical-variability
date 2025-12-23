@@ -1,0 +1,145 @@
+Paper,Region,Method,Mean_pval,Std_pval,P_cross
+Hanganu_2014_replication,Thalamus,PD-MCI_vs_PD-non-MCI p-val (empirical),0.01,0.08109968637193582,0.021725322526790714
+Hanganu_2014_replication,Caudate,PD-MCI_vs_PD-non-MCI p-val (empirical),0.63,0.06916214106304537,6.633467693190855e-28
+Hanganu_2014_replication,Putamen,PD-MCI_vs_PD-non-MCI p-val (empirical),0.21,0.04178181017733855,4.499960513877908e-08
+Hanganu_2014_replication,Pallidum,PD-MCI_vs_PD-non-MCI p-val (empirical),0.55,0.10646956541714137,1.0966433308192806e-10
+Hanganu_2014_replication,Hippocampus,PD-MCI_vs_PD-non-MCI p-val (empirical),0.43,0.06049899600072416,4.334563052671664e-20
+Hanganu_2014_replication,Amygdala,PD-MCI_vs_PD-non-MCI p-val (empirical),0.57,0.10952223157498359,1.2457163179970928e-10
+Hanganu_2014_replication,Thalamus,PD-MCI_vs_PD-non-MCI p-val (exact),0.01,0.08126266084842686,0.021611832312586565
+Hanganu_2014_replication,Caudate,PD-MCI_vs_PD-non-MCI p-val (exact),0.63,0.06918831498240927,6.948235727691519e-28
+Hanganu_2014_replication,Putamen,PD-MCI_vs_PD-non-MCI p-val (exact),0.21,0.042420841052966875,7.107235658078444e-08
+Hanganu_2014_replication,Pallidum,PD-MCI_vs_PD-non-MCI p-val (exact),0.55,0.10627986507066921,1.0139002923065335e-10
+Hanganu_2014_replication,Hippocampus,PD-MCI_vs_PD-non-MCI p-val (exact),0.43,0.060799463707116676,6.62078338576333e-20
+Hanganu_2014_replication,Amygdala,PD-MCI_vs_PD-non-MCI p-val (exact),0.57,0.10915109923908799,1.0732087907705975e-10
+Hanganu_2014_replication,Thalamus,PD-MCI_vs_HC p-val (empirical),0.28,0.05562201150975935,1.259324071020907e-09
+Hanganu_2014_replication,Caudate,PD-MCI_vs_HC p-val (empirical),0.56,0.06506042156995105,3.210492677568432e-27
+Hanganu_2014_replication,Putamen,PD-MCI_vs_HC p-val (empirical),0.26,0.04879328067419292,3.251027669699621e-10
+Hanganu_2014_replication,Pallidum,PD-MCI_vs_HC p-val (empirical),0.85,0.12605682547955072,1.93896070177813e-08
+Hanganu_2014_replication,Hippocampus,PD-MCI_vs_HC p-val (empirical),0.22,0.03854916499378373,2.4654443821530865e-10
+Hanganu_2014_replication,Amygdala,PD-MCI_vs_HC p-val (empirical),0.2,0.054650985127500815,9.058007371670428e-05
+Hanganu_2014_replication,Thalamus,PD-MCI_vs_HC p-val (exact),0.28,0.05630664776945421,1.989649587927839e-09
+Hanganu_2014_replication,Caudate,PD-MCI_vs_HC p-val (exact),0.56,0.06517463307442692,3.954784918494781e-27
+Hanganu_2014_replication,Putamen,PD-MCI_vs_HC p-val (exact),0.26,0.049414097056128606,5.383279792777422e-10
+Hanganu_2014_replication,Pallidum,PD-MCI_vs_HC p-val (exact),0.85,0.1089936470699501,5.242276705886993e-11
+Hanganu_2014_replication,Hippocampus,PD-MCI_vs_HC p-val (exact),0.22,0.03902101587371427,4.0234523698571983e-10
+Hanganu_2014_replication,Amygdala,PD-MCI_vs_HC p-val (exact),0.2,0.05600088501041848,0.00013240847954414534
+Hanganu_2014_replication,Thalamus,PD-non-MCI_vs_HC p-val (empirical),0.09,0.0228319309939417,0.023316320102667303
+Hanganu_2014_replication,Caudate,PD-non-MCI_vs_HC p-val (empirical),0.95,0.07789658754216305,4.1094449898277063e-10
+Hanganu_2014_replication,Putamen,PD-non-MCI_vs_HC p-val (empirical),0.13,0.004870338193804188,4.6157637365354415e-101
+Hanganu_2014_replication,Pallidum,PD-non-MCI_vs_HC p-val (empirical),0.13,0.039902054372969085,0.006509439270819408
+Hanganu_2014_replication,Hippocampus,PD-non-MCI_vs_HC p-val (empirical),0.74,0.08027340351429978,7.921524489590929e-23
+Hanganu_2014_replication,Amygdala,PD-non-MCI_vs_HC p-val (empirical),0.5,0.1020140827398258,4.5124254151120917e-10
+Hanganu_2014_replication,Thalamus,PD-non-MCI_vs_HC p-val (exact),0.09,0.023365408615124133,0.026186859206091973
+Hanganu_2014_replication,Caudate,PD-non-MCI_vs_HC p-val (exact),0.95,0.05449632599026162,1.238301751145217e-19
+Hanganu_2014_replication,Putamen,PD-non-MCI_vs_HC p-val (exact),0.13,0.004855222358744361,1.1145925469230002e-101
+Hanganu_2014_replication,Pallidum,PD-non-MCI_vs_HC p-val (exact),0.13,0.04120662510718029,0.008267664475325778
+Hanganu_2014_replication,Hippocampus,PD-non-MCI_vs_HC p-val (exact),0.74,0.07995179339174462,5.294650122447413e-23
+Hanganu_2014_replication,Amygdala,PD-non-MCI_vs_HC p-val (exact),0.5,0.10207187287892043,4.618103569193114e-10
+Hanganu_2014_replication,Right-Thalamus,PD-all p-val,0.89,0.12736150729772047,4.671535563378821e-07
+Hanganu_2014_replication,Right-Caudate,PD-all p-val,0.68,0.10486082549953575,1.5219617743328262e-13
+Hanganu_2014_replication,Right-Putamen,PD-all p-val,0.92,0.13439547075941607,2.5705360133465237e-05
+Hanganu_2014_replication,Right-Pallidum,PD-all p-val,1.0,0.17411180760269157,
+Hanganu_2014_replication,Right-Hippocampus,PD-all p-val,0.64,0.0926965497374059,2.64775553139857e-16
+Hanganu_2014_replication,Right-Amygdala,PD-all p-val,0.26,0.08836741551403204,0.0005118702763122768
+Hanganu_2014_replication,Left-Thalamus,PD-all p-val,0.37,0.08945526241565703,1.4414200716070843e-07
+Hanganu_2014_replication,Left-Caudate,PD-all p-val,1.0,0.08028933300253162,
+Hanganu_2014_replication,Left-Putamen,PD-all p-val,0.9,0.10859249236897733,6.882116613816715e-09
+Hanganu_2014_replication,Left-Pallidum,PD-all p-val,0.81,0.16330069097362115,7.717214883761373e-06
+Hanganu_2014_replication,Left-Hippocampus,PD-all p-val,0.96,0.1221809022733756,0.00048405409697652906
+Hanganu_2014_replication,Left-Amygdala,PD-all p-val,0.26,0.100947801057435,0.002363828832145504
+Hanganu_2014_replication,Right-Thalamus,PD-all p-val (exact),0.89,0.09157866380341291,7.015722484666528e-13
+Hanganu_2014_replication,Right-Caudate,PD-all p-val (exact),0.68,0.10325407680527621,6.181276695082056e-14
+Hanganu_2014_replication,Right-Putamen,PD-all p-val (exact),0.92,0.08736659436636793,1.819664218941236e-11
+Hanganu_2014_replication,Right-Pallidum,PD-all p-val (exact),1.0,0.09967282519073983,
+Hanganu_2014_replication,Right-Hippocampus,PD-all p-val (exact),0.64,0.0920410200654193,1.6081017379830616e-16
+Hanganu_2014_replication,Right-Amygdala,PD-all p-val (exact),0.26,0.0895381734137682,0.0006058580375499554
+Hanganu_2014_replication,Left-Thalamus,PD-all p-val (exact),0.37,0.08954089083896655,1.4820161565606868e-07
+Hanganu_2014_replication,Left-Caudate,PD-all p-val (exact),1.0,0.047427546658353005,
+Hanganu_2014_replication,Left-Putamen,PD-all p-val (exact),0.9,0.08313300102753857,1.4780355642684178e-14
+Hanganu_2014_replication,Left-Pallidum,PD-all p-val (exact),0.81,0.1269302461987093,3.78522355803048e-09
+Hanganu_2014_replication,Left-Hippocampus,PD-all p-val (exact),0.96,0.07487468024941973,3.4479685595545527e-09
+Hanganu_2014_replication,Left-Amygdala,PD-all p-val (exact),0.26,0.1026399463552766,0.002791200152851961
+Hanganu_2014_replication,Right-Thalamus,PD-MCI p-val,0.81,0.11890443058080077,2.6372720903894637e-10
+Hanganu_2014_replication,Right-Caudate,PD-MCI p-val,0.61,0.08284741876436602,3.4816084264967756e-19
+Hanganu_2014_replication,Right-Putamen,PD-MCI p-val,0.7,0.11178065666001595,3.392382158790752e-12
+Hanganu_2014_replication,Right-Pallidum,PD-MCI p-val,0.84,0.1661736363611123,2.5639269175955623e-05
+Hanganu_2014_replication,Right-Hippocampus,PD-MCI p-val,0.92,0.10044368978647093,6.933585998388025e-09
+Hanganu_2014_replication,Right-Amygdala,PD-MCI p-val,0.48,0.08409770485236216,2.4597403539008937e-13
+Hanganu_2014_replication,Left-Thalamus,PD-MCI p-val,0.71,0.10510743938383581,1.0249691398730299e-13
+Hanganu_2014_replication,Left-Caudate,PD-MCI p-val,0.42,0.03485093312667897,8.112354713759775e-55
+Hanganu_2014_replication,Left-Putamen,PD-MCI p-val,0.63,0.08289383931736834,8.360761682639635e-20
+Hanganu_2014_replication,Left-Pallidum,PD-MCI p-val,0.97,0.16659608135059184,0.026120134262510274
+Hanganu_2014_replication,Left-Hippocampus,PD-MCI p-val,0.82,0.11506042272229076,9.593754703813766e-11
+Hanganu_2014_replication,Left-Amygdala,PD-MCI p-val,0.36,0.06355485681446664,5.848059521302983e-13
+Hanganu_2014_replication,Right-Thalamus,PD-MCI p-val (exact),0.81,0.11555303323057543,7.351636723040371e-11
+Hanganu_2014_replication,Right-Caudate,PD-MCI p-val (exact),0.61,0.08281997848538299,3.387478491977911e-19
+Hanganu_2014_replication,Right-Putamen,PD-MCI p-val (exact),0.7,0.11101933737245552,2.3805626842000975e-12
+Hanganu_2014_replication,Right-Pallidum,PD-MCI p-val (exact),0.84,0.14153931981546553,4.739163964309634e-07
+Hanganu_2014_replication,Right-Hippocampus,PD-MCI p-val (exact),0.92,0.08641844758387748,1.0631924563398546e-11
+Hanganu_2014_replication,Right-Amygdala,PD-MCI p-val (exact),0.48,0.08543967148208301,5.843619058861463e-13
+Hanganu_2014_replication,Left-Thalamus,PD-MCI p-val (exact),0.71,0.10450623768392561,7.318125836011654e-14
+Hanganu_2014_replication,Left-Caudate,PD-MCI p-val (exact),0.42,0.03512093981511198,5.286899631711115e-54
+Hanganu_2014_replication,Left-Putamen,PD-MCI p-val (exact),0.63,0.08278396063688696,7.461945555752299e-20
+Hanganu_2014_replication,Left-Pallidum,PD-MCI p-val (exact),0.97,0.10271606490457402,0.0002006409747147546
+Hanganu_2014_replication,Left-Hippocampus,PD-MCI p-val (exact),0.82,0.11124708779796609,1.9689162573662918e-11
+Hanganu_2014_replication,Left-Amygdala,PD-MCI p-val (exact),0.36,0.06660887206541193,6.360675109795551e-12
+Hanganu_2014_replication,Right-Thalamus,PD-non-MCI p-val,0.8,0.12812388502330926,3.88972589623883e-09
+Hanganu_2014_replication,Right-Caudate,PD-non-MCI p-val,0.31,0.10870191521211166,0.0004472712771192909
+Hanganu_2014_replication,Right-Putamen,PD-non-MCI p-val,0.73,0.1341973094791478,8.177769017885724e-09
+Hanganu_2014_replication,Right-Pallidum,PD-non-MCI p-val,0.22,0.16441534687415557,0.1365401822855803
+Hanganu_2014_replication,Right-Hippocampus,PD-non-MCI p-val,0.85,0.10184887429163277,1.7713227943765788e-12
+Hanganu_2014_replication,Right-Amygdala,PD-non-MCI p-val,0.33,0.14941055640433126,0.006509077440912273
+Hanganu_2014_replication,Left-Thalamus,PD-non-MCI p-val,0.07,0.11241570826958332,0.6502170299894555
+Hanganu_2014_replication,Left-Caudate,PD-non-MCI p-val,0.12,0.07318496502976635,0.16286374988589436
+Hanganu_2014_replication,Left-Putamen,PD-non-MCI p-val,0.5,0.10746040200824097,3.411612381337097e-09
+Hanganu_2014_replication,Left-Pallidum,PD-non-MCI p-val,0.61,0.16525758602791268,1.343950773046827e-05
+Hanganu_2014_replication,Left-Hippocampus,PD-non-MCI p-val,0.81,0.12198121290690309,7.785765054623722e-10
+Hanganu_2014_replication,Left-Amygdala,PD-non-MCI p-val,0.22,0.1668974342214588,0.14287309682493973
+Hanganu_2014_replication,Right-Thalamus,PD-non-MCI p-val (exact),0.8,0.11464302574726357,3.408744158204298e-11
+Hanganu_2014_replication,Right-Caudate,PD-non-MCI p-val (exact),0.31,0.0528638155565635,3.8816184303032307e-13
+Hanganu_2014_replication,Right-Putamen,PD-non-MCI p-val (exact),0.73,0.11983323341998992,8.1185641921206e-11
+Hanganu_2014_replication,Right-Pallidum,PD-non-MCI p-val (exact),0.22,0.06117715407916974,6.183341294029517e-05
+Hanganu_2014_replication,Right-Hippocampus,PD-non-MCI p-val (exact),0.85,0.09102261066473176,2.1546653740927938e-15
+Hanganu_2014_replication,Right-Amygdala,PD-non-MCI p-val (exact),0.33,0.07727899202881192,9.026520196516442e-08
+Hanganu_2014_replication,Left-Thalamus,PD-non-MCI p-val (exact),0.07,0.011216812310286714,0.02740488094316142
+Hanganu_2014_replication,Left-Caudate,PD-non-MCI p-val (exact),0.12,0.012956078617432724,3.782526600092514e-12
+Hanganu_2014_replication,Left-Putamen,PD-non-MCI p-val (exact),0.5,0.07729624263851677,1.2798367405808294e-16
+Hanganu_2014_replication,Left-Pallidum,PD-non-MCI p-val (exact),0.61,0.13329364906641844,4.348162508186815e-08
+Hanganu_2014_replication,Left-Hippocampus,PD-non-MCI p-val (exact),0.81,0.11009033309860444,7.125729261742678e-12
+Hanganu_2014_replication,Left-Amygdala,PD-non-MCI p-val (exact),0.22,0.05835533162526667,2.7047780295521336e-05
+Hanganu_2014_replication,Thalamus,MCI_vs_nonMCI p-val,0.01,0.004080776203642891,1.6142350456327392e-08
+Hanganu_2014_replication,Caudate,MCI_vs_nonMCI p-val,0.63,0.06916214106304537,6.633467693190855e-28
+Hanganu_2014_replication,Putamen,MCI_vs_nonMCI p-val,0.21,0.04178181017733855,4.499960513877908e-08
+Hanganu_2014_replication,Pallidum,MCI_vs_nonMCI p-val,0.55,0.10646956541714137,1.0966433308192806e-10
+Hanganu_2014_replication,Hippocampus,MCI_vs_nonMCI p-val,0.43,0.06049899600072416,4.334563052671664e-20
+Hanganu_2014_replication,Amygdala,MCI_vs_nonMCI p-val,0.57,0.10952223157498359,1.2457163179970928e-10
+Hanganu_2014_replication,Thalamus,MCI_vs_nonMCI p-val (exact),0.01,0.004062497948576845,1.4081109833696814e-08
+Hanganu_2014_replication,Caudate,MCI_vs_nonMCI p-val (exact),0.63,0.06918831498240927,6.948235727691519e-28
+Hanganu_2014_replication,Putamen,MCI_vs_nonMCI p-val (exact),0.21,0.042420841052966875,7.107235658078444e-08
+Hanganu_2014_replication,Pallidum,MCI_vs_nonMCI p-val (exact),0.55,0.10627986507066921,1.0139002923065335e-10
+Hanganu_2014_replication,Hippocampus,MCI_vs_nonMCI p-val (exact),0.43,0.060799463707116676,6.62078338576333e-20
+Hanganu_2014_replication,Amygdala,MCI_vs_nonMCI p-val (exact),0.57,0.10915109923908799,1.0732087907705975e-10
+Hanganu_2014_replication,Thalamus,MCI_vs_HC p-val,0.07,0.018177592838540535,0.12900873161631124
+Hanganu_2014_replication,Caudate,MCI_vs_HC p-val,0.65,0.06950546836445759,1.9413478024915872e-28
+Hanganu_2014_replication,Putamen,MCI_vs_HC p-val,0.76,0.09200969144003128,1.6081076400820475e-17
+Hanganu_2014_replication,Pallidum,MCI_vs_HC p-val,0.9,0.1283352527921535,1.3708248588762025e-06
+Hanganu_2014_replication,Hippocampus,MCI_vs_HC p-val,0.51,0.0672708347703744,3.268999075714358e-22
+Hanganu_2014_replication,Amygdala,MCI_vs_HC p-val,0.58,0.11080227145140588,1.2458340995350344e-10
+Hanganu_2014_replication,Thalamus,MCI_vs_HC p-val (exact),0.07,0.018600554421181623,0.1353716002375059
+Hanganu_2014_replication,Caudate,MCI_vs_HC p-val (exact),0.65,0.06952371980520503,2.006160622950589e-28
+Hanganu_2014_replication,Putamen,MCI_vs_HC p-val (exact),0.76,0.09076821394248494,5.655868285445201e-18
+Hanganu_2014_replication,Pallidum,MCI_vs_HC p-val (exact),0.9,0.09100948911095094,2.700640460737073e-12
+Hanganu_2014_replication,Hippocampus,MCI_vs_HC p-val (exact),0.51,0.0674455356539029,4.1903835323598376e-22
+Hanganu_2014_replication,Amygdala,MCI_vs_HC p-val (exact),0.58,0.11033892563777142,1.0360654020112837e-10
+Hanganu_2014_replication,Thalamus,nonMCI_vs_HC p-val,0.1,0.02508080530978571,0.009627430445309563
+Hanganu_2014_replication,Caudate,nonMCI_vs_HC p-val,0.83,0.07625137298705742,9.596519257128514e-23
+Hanganu_2014_replication,Putamen,nonMCI_vs_HC p-val,0.13,0.029437354894887285,0.0002906772352232866
+Hanganu_2014_replication,Pallidum,nonMCI_vs_HC p-val,0.46,0.0965356342107969,9.939482381565224e-10
+Hanganu_2014_replication,Hippocampus,nonMCI_vs_HC p-val,0.95,0.08478803440230316,1.1091339374387723e-08
+Hanganu_2014_replication,Amygdala,nonMCI_vs_HC p-val,0.93,0.1293725454204976,3.1918099747100636e-05
+Hanganu_2014_replication,Thalamus,nonMCI_vs_HC p-val (exact),0.1,0.025659278110419566,0.01119618923612255
+Hanganu_2014_replication,Caudate,nonMCI_vs_HC p-val (exact),0.83,0.07405165122334714,4.716671633373665e-24
+Hanganu_2014_replication,Putamen,nonMCI_vs_HC p-val (exact),0.13,0.02999885297117836,0.000372524411311772
+Hanganu_2014_replication,Pallidum,nonMCI_vs_HC p-val (exact),0.46,0.09682354062571205,1.1165061747382006e-09
+Hanganu_2014_replication,Hippocampus,nonMCI_vs_HC p-val (exact),0.95,0.059668907151347865,1.5093140904207793e-16
+Hanganu_2014_replication,Amygdala,nonMCI_vs_HC p-val (exact),0.93,0.0840684320060788,3.165897467950975e-11

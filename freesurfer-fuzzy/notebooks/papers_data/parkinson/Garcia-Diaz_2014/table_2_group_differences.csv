@@ -1,0 +1,7 @@
+"analysis","region","group","n","mean","sd","statistic_name","statistic_value","p_value","significant"
+"Group differences","MeanThickness",PD,92,2.4,0.1,"t",2.610,0.010,1
+"Group differences","MeanThickness",Controls,36,2.5,0.1,"t",2.610,0.010,1
+"Group differences","SubCortGrayVol",PD,92,601.55,64.2,"F",2.027,0.157,0
+"Group differences","SubCortGrayVol",Controls,36,611.62,54.3,"F",2.027,0.157,0
+"Group differences","Lateral-Ventricle",PD,92,25.2,14.3,"F",4.219,0.042,1
+"Group differences","Lateral-Ventricle",Controls,36,20.0,8.4,"F",4.219,0.042,1

@@ -1,0 +1,7 @@
+"analysis","region","score_name","n","mean","sd","statistic_name","statistic_value","p_value","significant"
+"Correlations in PD patients","MeanThickness","MMSE",92,2.4,0.1,"r",0.251,0.016,1
+"Correlations in PD patients","MeanThickness","3MS",92,2.4,0.1,"r",0.224,0.033,1
+"Correlations in PD patients","SubCortGrayVol","MMSE",92,601.55,64.2,"r",0.186,0.075,0
+"Correlations in PD patients","SubCortGrayVol","3MS",92,601.55,64.2,"r",0.279,0.008,1
+"Correlations in PD patients","Lateral-Ventricle","MMSE",92,25.2,14.3,"r",0.222,0.035,1
+"Correlations in PD patients","Lateral-Ventricle","3MS",92,25.2,14.3,"r",0.179,0.063,0

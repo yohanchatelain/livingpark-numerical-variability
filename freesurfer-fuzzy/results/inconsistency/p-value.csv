@@ -1,0 +1,37 @@
+category,n_fluctuating_pairs,n_possible_pairs,percentage,metric
+ancova baseline,18,68,26.0,area
+ancova longitudinal,36,68,53.0,area
+partial_correlation baseline,4,68,6.0,area
+partial_correlation longitudinal,26,68,38.0,area
+baseline,22,136,16.0,area
+longitudinal,62,136,46.0,area
+ancova,54,136,40.0,area
+partial_correlation,30,136,22.0,area
+at_least_one_fluctuation,84,272,31.0,area
+ancova baseline,11,68,16.0,thickness
+ancova longitudinal,9,68,13.0,thickness
+partial_correlation baseline,19,68,28.0,thickness
+partial_correlation longitudinal,17,68,25.0,thickness
+baseline,30,136,22.0,thickness
+longitudinal,26,136,19.0,thickness
+ancova,20,136,15.0,thickness
+partial_correlation,36,136,26.0,thickness
+at_least_one_fluctuation,56,272,21.0,thickness
+ancova baseline,14,68,21.0,volume
+ancova longitudinal,20,68,29.0,volume
+partial_correlation baseline,8,68,12.0,volume
+partial_correlation longitudinal,36,68,53.0,volume
+baseline,22,136,16.0,volume
+longitudinal,56,136,41.0,volume
+ancova,34,136,25.0,volume
+partial_correlation,44,136,32.0,volume
+at_least_one_fluctuation,78,272,29.0,volume
+ancova baseline,4,14,29.0,subcortical_volume
+ancova longitudinal,2,14,14.0,subcortical_volume
+partial_correlation baseline,4,14,29.0,subcortical_volume
+partial_correlation longitudinal,5,14,36.0,subcortical_volume
+baseline,8,28,29.0,subcortical_volume
+longitudinal,7,28,25.0,subcortical_volume
+ancova,6,28,21.0,subcortical_volume
+partial_correlation,9,28,32.0,subcortical_volume
+at_least_one_fluctuation,15,56,27.0,subcortical_volume

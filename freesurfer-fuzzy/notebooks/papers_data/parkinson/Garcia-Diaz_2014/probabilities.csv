@@ -1,0 +1,25 @@
+Paper,Region,Method,Mean_pval,Std_pval,P_cross
+Garcia-Diaz_2014,MeanThickness,Group differences,0.01,0.002094260404306881,0.0
+Garcia-Diaz_2014,CortexVol,Group differences,0.157,6.887509345137954e-05,0.0
+Garcia-Diaz_2014,LateralVentricle,Group differences,0.042,8.168179094989763e-06,0.0
+Garcia-Diaz_2014,MeanThickness,(exact),0.01,0.0021397856069111034,0.0
+Garcia-Diaz_2014,CortexVol,(exact),0.157,0.009537270939809463,5.2465900402244e-52
+Garcia-Diaz_2014,LateralVentricle,(exact),0.042,0.0007886971506335925,0.0
+Garcia-Diaz_2014,MeanThickness,MMSE correlations,0.016,0.0010147654604687204,0.0
+Garcia-Diaz_2014,CortexVol,MMSE correlations,0.075,0.002702142756375319,8.729817260649706e-26
+Garcia-Diaz_2014,LateralVentricle,MMSE correlations,0.035,0.00027126775751508777,0.0
+Garcia-Diaz_2014,MeanThickness,MMSE (exact),0.016,0.0052817505030226634,5.689509346096244e-06
+Garcia-Diaz_2014,CortexVol,MMSE (exact),0.075,0.016247459146593826,0.04807197142336741
+Garcia-Diaz_2014,LateralVentricle,MMSE (exact),0.035,0.003121980226349458,8.55600701954451e-06
+Garcia-Diaz_2014,MeanThickness,3MS correlations,0.033,0.00237337523506113,1.878209809902387e-10
+Garcia-Diaz_2014,CortexVol,3MS correlations,0.008,0.0001657303556875325,0.0
+Garcia-Diaz_2014,LateralVentricle,3MS correlations,0.063,0.0008342248732401788,4.4345421748085183e-63
+Garcia-Diaz_2014,MeanThickness,3MS (exact),0.033,0.011451700723728163,0.0810546398010683
+Garcia-Diaz_2014,CortexVol,3MS (exact),0.008,0.0011142927285605578,0.0
+Garcia-Diaz_2014,LateralVentricle,3MS (exact),0.063,0.009495844181413715,0.0777834624921473
+Garcia-Diaz_2014,MeanThickness,WG-A correlations,0.0001,9.205424729734509e-70,0.0
+Garcia-Diaz_2014,CortexVol,WG-A correlations,0.082,0.0029770520680306657,9.263658052011186e-36
+Garcia-Diaz_2014,LateralVentricle,WG-A correlations,0.063,0.0008342248732401788,4.4345421748085183e-63
+Garcia-Diaz_2014,MeanThickness,WG-A (exact),0.0001,0.0,0.0
+Garcia-Diaz_2014,CortexVol,WG-A (exact),0.082,0.017825671491429607,0.022607404621695314
+Garcia-Diaz_2014,LateralVentricle,WG-A (exact),0.063,0.009495844181413715,0.0777834624921473

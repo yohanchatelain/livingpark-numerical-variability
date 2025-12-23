@@ -1,0 +1,15 @@
+region,PD-all_r,PD-all_p,PD-MCI_r,PD-MCI_p,PD-non-MCI_r,PD-non-MCI_p
+Right-Thalamus,-0.03,0.89,0.09,0.81,0.07,0.8
+Right-Caudate,0.09,0.68,-0.18,0.61,0.28,0.31
+Right-Putamen,0.02,0.92,0.14,0.7,0.1,0.73
+Right-Pallidum,0.0,1.0,-0.07,0.84,0.33,0.22
+Right-Hippocampus,-0.1,0.64,-0.04,0.92,-0.05,0.85
+Right-Amygdala,-0.24,0.26,-0.25,0.48,-0.27,0.33
+Right-Accumbens-area,0.04,0.87,0.38,0.27,-0.12,0.66
+Left-Thalamus,0.19,0.37,0.14,0.71,0.48,0.07
+Left-Caudate,0.0,1.0,-0.29,0.42,0.42,0.12
+Left-Putamen,-0.03,0.9,-0.17,0.63,0.19,0.5
+Left-Pallidum,0.05,0.81,0.02,0.97,0.15,0.61
+Left-Hippocampus,-0.01,0.96,-0.08,0.82,0.07,0.81
+Left-Amygdala,0.24,0.26,0.32,0.36,0.34,0.22
+Left-Accumbens-area,0.02,0.92,-0.07,0.85,0.12,0.67
