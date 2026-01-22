@@ -4,3 +4,5 @@ pandas
 rglob
 nbformat>=4.2.0
 kaleido
+scipy
+fastparquet
