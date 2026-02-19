@@ -8,14 +8,24 @@ Contains fuzzy experiments with FreeSurfer 7.3.1.
 
 Notebooks relative to cohort build.
 - `cohort_builder.ipynb`: Build cross-sectional and longitudinal cohort from PPMI.
-- `execution_stats_info.ipynb`: Gather information about run on VIP and filter out QC failures.
+- `executions_stats_info.ipynb`: Gather information about run on VIP and filter out QC failures.
 
 ### Container
 
-Dockerfile and Python scritps to reproduce NVPR maps with EnigmaToolBox.
-- `Dockerfile.enigma`: Docker file to build script environment.
-- `navr.sh`: Plot NPVR maps.
-- `*.py`: Python scripts relative to plotting.
+Dockerfile and Python scripts to reproduce NPVR maps with EnigmaToolBox.
+- `ENIGMA/Dockerfile.enigma`: Docker file to build script environment.
+- `ENIGMA/navr.sh`: Plot NPVR maps.
+- `ENIGMA/threshold_cohen_d.sh`, `ENIGMA/threshold_cohen_d_all.sh`: Threshold Cohen's d maps.
+- `ENIGMA/*.py`: Python scripts relative to plotting (`add_hemi_region.py`, `display.py`, `parser.py`, `plot.py`).
+
+### Scripts
+
+Scripts to run FreeSurfer on the VIP platform via the VIP API. See `scripts/README.md` for setup instructions (VIP API token, FreeSurfer license, dataset).
+- `freesurfer-recon-all.sh`: Launch FreeSurfer recon-all on VIP server.
+- `download.py`: Download VIP session outputs or list pipeline details.
+- `generate_inputs_json.py`: Scan the inputs directory for NIfTI files and generate an `inputs.json` mapping subjects to file paths.
+- `generate_input_settings.py`: Build the VIP pipeline input settings JSON from a prepared input data file.
+- `run_pipeline.py`: Create a VIP session, optionally upload inputs, and launch the FreeSurfer pipeline.
 
 ### Notebooks
 
@@ -36,7 +46,7 @@ Notebooks relative to longitudinal analysis.
 - `ieee/baseline-partial-correlation.ipynb`: Compute partial correlation at baseline between PD and UPDRS-III score for IEEE repetition.
 - `ieee/longitudinal-ancova.ipynb`: Compute ANCOVA between HC and PD longitudinally for IEEE repetition.
 - `ieee/longitudinal-partial-correlation.ipynb`: Compute partial correlation between PD and UPDRS-III score longitudinally for IEEE repetition.
-  
+
 Notebooks to plot longitudinal analysis:
 - `plot/plot-cortical_area.ipynb`: Plot cortical surface area.
 - `plot/plot-cortical_thickness.ipynb`: Plot cortical thickness.
@@ -60,17 +70,20 @@ Notebooks relative NPVR maps.
 
 #### Numerical validation
 
-Notebooks comparing formula and std sampling.
-- `ancova`: ANCOVA
-- `correlation`: Partial-correlation
-- `cohen_d`: Cohen's d
-- `t_test`: Two-sample t-test
+Notebooks comparing formula and std sampling. Each subdirectory (`ancova`, `correlation`, `cohen_d`, `t_test`) contains one notebook per brain measure:
+- `cortical_area.ipynb`, `cortical_thickness.ipynb`, `cortical_volume.ipynb`, `subcortical_volume.ipynb`
+
+Additional notebook:
+- `aggregated_relative_difference_boxplots.ipynb`: Aggregate and plot relative differences across all statistical tests and brain measures.
 
 #### Papers data
 
-Notebooks computing the numerical variability on finding from published articles.
+Notebooks computing the numerical variability on findings from published articles.
 - `parkinson`: A list of directories, one per article. Each article contains:
   - `consistency.ipynb`: A notebook that contains numerical variability computations.
   - `table*.csv`: Files that contain raw results from original article.
   - `uncertainty.csv`: Summary statistics of numerical variability computations.
-- `figure-*.ipynb`: Plot figures summarizing numerical-induced misclassifications.
+- `alzheimer`: Same structure as `parkinson`, for Alzheimer's disease articles.
+- `figure-PPMI.ipynb`: Plot numerical variability figures for PPMI-based results.
+- `figure-distance.ipynb`, `figure-distance-histogram.ipynb`, `figure-distance-polar.ipynb`: Plot figures of numerical variability distances.
+- `figure-entropy.ipynb`: Plot figures summarizing entropy of numerical variability.
