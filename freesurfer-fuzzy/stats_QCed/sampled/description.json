@@ -1,0 +1,7 @@
+{
+    "sample_size": 26,
+    "thickness": "Cortical thickness",
+    "area": "Cortical area",
+    "volume": "Cortical volume",
+    "subcortical_volume": "Subcortical volume"
+}

@@ -1,2 +1,5 @@
 .vscode/PythonImportHelper-v2-Completion.json
 .venv
+freesurfer-fuzzy/cohort/*.csv
+*.pyc
+*.parquet

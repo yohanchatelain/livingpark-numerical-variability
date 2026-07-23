@@ -1,0 +1,26 @@
+Deadline: 9th July
+
+Reviewer 1
+The Practical Impact of numerical variability on structural MRI measures of Parkinson's disease
+The authors studied the impact of numerical variability coming from different computational environments on volumetric measurements of Parkinson's disease subjects obtained using Freesurfer, which is a common tool in neuroimaging studies for MRI volumetry. They used publicly available MRI data (PPMI). Their methods included injecting numerical noise at the order of machine precision into floating-point operations during processing. Authors stated that in many brain regions, the numerical variability reaches 1/3 of population variability, thereby affecting statistical group conclusions and clinical associations. They observed that numerical noise can alter downstream statistical inference in structural MRI analyses of Parkinson’s. This effect is previously underappreciated by researchers. Authors state that in order to suppress this numerical uncertainty effect, the number of participants in a given study should considerably increase (1340 in cross-sectional, 12000 in longitudinal studies).
+The authors further estimated this effect in 13 previously published Parkinson’s studies.
+The authors could better describe how this numerical effect is changing the key findings of these 13 papers. Figure 4 and the related discussion can be expanded. In its current form, Figure 4 is not very informative. The S6 section in the supplemental materials can also be expanded accordingly.
+
+Reviewer 2
+In this Brain-MRI method paper, the authors are working on two fronts: 1. they create a sophisticated numerical perturbation framework, and derive mathematical measure to retro-analyse existing studies. 2. they show the limit of Freesurfer numerical precision on the PPMI (Parkinson) dataset, thus the title.
+Even in this age of stochastic algorithm, this is a worthy message to convey.
+Pro:
+- the authors show that this numerical error is different than a regular measurement error (that everyone is familar with) in that it does not necessarily cancel with a bigger dataset. This is one key take-home message. They also show that longitudinal analysis (at least as conducted in the literature) are even more prone to such errors.
+- They run a Freesurfer analysis of the PPMI dataset under a range of numerical perturbation using an LD_PRELOAD trick, and shows the distribution of conclusions.
+- They derive mathematical formulas for common statistics, and applies their sophisticated framework on a set of existing studies, using a model-based distribution of p-values, to conclude on the stability of the "significant" finding.
+Con:
+While I think the paper succeeds in convincing the reader that numerical variability is a real and potentially important source of uncertainty; it is much less successful at translating that observation into practical actions for neuroimaging researchers.
+- The authors pool various unrelated studies whose only common point is that they used FreeSurfer, regardless on the type of study. The reader who cares about the reliability of previous studies conclusions would likely wants to know what kind of studies are dubious and what kind of findings are less affected. I believe the promise in the manuscript title, ie. of explaining how variability affects Parkinson disease results, should be honored.
+- The authors do not cleanly separates the metrics of different nature (thickness, area, volume), even though those are intuitively expected to behave quite differently. Would the authors comment on that ?
+- There are no further conclusion, no actionable methodological advices for the reader. Should we stop trusting FreeSurfer ? change the way to conduct statistical analyses ? or proceed to report results differently ? 
+I believe the manuscript would benefit from clearer guidance regarding the practical implications of these findings.
+Furthremore, there are some specific points that could be addressed or commented on:
+- Loosy and inconsistent vocabulary should be improved: Caption of Figure 4 is misleading, as e.g. "False positives" actually refers to results reported as True positive if my understanding is correct. This doesn't help that the y-label is merely "Probability". The text mentions "Each point corresponds to a significant result reported in the literature", where non-significant results are necessarily plotted too, etc. IMHO, more effort on the figure and terminology would convey the result in a more precise and accurate way, with less reader effort.
+- Fig 1. why are there such heavy left-right differences in some nucleus ? I would intuitively expect numerical precision to disrupt bilateral measures equally by default. Is it random chance or instability of the whole analysis ? If so, i believe CI-bars are necessary. If this is due to the nature of the studies themselves, this would require clarification, especially since the nature of the studies are always vague in the manuscript. At present, the reader cannot tell whether they reflect differences in numerical stability, differences in the underlying statistical analyses, or simply Monte Carlo sampling variability. 
+The observed hemispheric differences deserve some discussion. 
+I think all that could be fixed in a minor revision, and would drastically increase the value for readers
