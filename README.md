@@ -1,5 +1,8 @@
 # Repo layout
 
+[![DOI](https://zenodo.org/badge/1094544918.svg)](https://doi.org/10.5281/zenodo.18028947)
+[![Download PDF](https://img.shields.io/badge/Paper-Download%20PDF-B31B1B?logo=adobeacrobatreader&logoColor=white)](https://yohanchatelain.github.io/livingpark-numerical-variabiliy-paper/paper-full.pdf)
+
 ## Freesurfer-fuzzy
 
 Contains fuzzy experiments with FreeSurfer 7.3.1.
